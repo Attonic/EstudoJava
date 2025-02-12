@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercBancoExcep/ExercBancoExcep.iml" filepath="$PROJECT_DIR$/ExercBancoExcep/ExercBancoExcep.iml" />
       <module fileurl="file://$PROJECT_DIR$/Funcionarios/Funcionarios.iml" filepath="$PROJECT_DIR$/Funcionarios/Funcionarios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulaInterfaces/Interfaces.iml" filepath="$PROJECT_DIR$/AulaInterfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaEstudo.iml" filepath="$PROJECT_DIR$/.idea/JavaEstudo.iml" />
     </modules>
   </component>
