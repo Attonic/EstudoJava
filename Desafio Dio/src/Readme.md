@@ -4,7 +4,7 @@
 
 ## Diagrama UML:
 
-![Diagrama UML](/src/diagrama.drawio.png)
+![Diagrama UML](diagrama.drawio.png)
 
 ### Funcionalidades a Modelar
 1. Reprodutor Musical
